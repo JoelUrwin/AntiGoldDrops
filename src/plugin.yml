@@ -1,0 +1,5 @@
+name: AntiGoldDrops
+version: 1.0
+author: JoelUrwin
+main: in.joelurw.AntiGoldDrops.AntiGoldDrops
+api-version: 1.14
